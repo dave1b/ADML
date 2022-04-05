@@ -18,6 +18,7 @@ tqdm = "==4.50.0"
 plotly = "==4.10.0"
 jupyter-contrib-nbextensions = "==0.5.1"
 scipy = "*"
+tensorflow = "*"
 
 [dev-packages]
 
