@@ -2,3 +2,5 @@
 08 Convolutional Neural Network/data/*
 08 Transfer Learning/data/*
 09 Anomaly Detection/creditcard.csv
+*/.ipynb_checkpoints/*
+
